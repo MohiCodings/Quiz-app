@@ -1,4 +1,4 @@
-# Blog website using ReactJs
+# Quiz website using ReactJs
 
 
 
